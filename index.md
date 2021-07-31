@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My website, feel free to drive along ...
 
 You can use the [editor on GitHub](https://github.com/GideonNti/GideonNti.github.io/edit/Master/index.md) to maintain and preview the content for your website in Markdown files.
 
